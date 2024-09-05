@@ -1,6 +1,5 @@
 SRC = presentation.md
 FILES += $(patsubst %.md, %.pdf, $(wildcard *.md))
-FILES += $(patsubst %.md, %.html, $(wildcard *.md))
 
 FILTERS =
 PDF_ENGINE =
