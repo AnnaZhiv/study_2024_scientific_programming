@@ -2,7 +2,7 @@
 
 **Full Changelog: https://github.com/AnnaZhiv/study_2024_scientific_programming/commits/v-01
 
-***add elements 
+***add lab01 folder elements https://github.com/AnnaZhiv/study_2024_scientific_programming/compare/v-01...master
 
 
 
