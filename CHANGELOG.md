@@ -10,6 +10,12 @@
 
 **add lab03 folder https://github.com/AnnaZhiv/study_2024_scientific_programming/compare/v-02...master 
 
+# Lab04 (23.10.2024)
+
+**Full Changelog**: https://github.com/AnnaZhiv/study_2024_scientific_programming/compare/v-01...l-04
+
+**add lab03 folder https://github.com/AnnaZhiv/study_2024_scientific_programming/commit/dfebb1b6c6563cf6a28c0265eb2601a26a2ea73d 
+
 
 
 
