@@ -26,6 +26,10 @@
 
 **Full Changelog**: https://github.com/AnnaZhiv/study_2024_scientific_programming/compare/l-04...l-06
 
+# Lab07 (08.12.2024)
+
+**Full Changelog**: https://github.com/AnnaZhiv/study_2024_scientific_programming/compare/l-06...l-07
+
 
 
 
